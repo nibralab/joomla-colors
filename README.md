@@ -4,7 +4,8 @@ Joomla Brand Color palette for use with Inkscape and Gimp
 
 ## The Colors
 
-The [Joomla Brand Manual] defines the colors used by the Joomla! project:
+The [Joomla Brand Manual](http://issuu.com/joomladocs/docs/20150308_joomla_brandmanual_basic_d/1)
+defines the colors used by the Joomla! project:
 
 Primary colors:
 

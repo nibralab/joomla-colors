@@ -4,9 +4,17 @@ Copy the file `joomla.gpl` to the Inkscape `palettes` directory.
  
 For Debian based distributions like **Ubuntu**:
 
-```bash
-$ sudo cp joomla.gpl /usr/share/inkscape/palettes/joomla.gpl
-```
+  - Local install for the current user:
+   
+    ```bash
+    $ sudo cp joomla.gpl ~/.config/inkscape/palettes/joomla.gpl
+    ```
+
+  - Global install for all users:
+  
+    ```bash
+    $ sudo cp joomla.gpl /usr/share/inkscape/palettes/joomla.gpl
+    ```
 
 Start the program,
 At the bottom of the program window, you'll see the default palette:

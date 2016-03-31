@@ -11,7 +11,7 @@ For Debian based distributions like **Ubuntu**:
     $ sudo cp joomla.soc ~/.config/libreoffice/4/user/config/joomla.soc
     ```
     
-Start the LibreOffice Impress.
+Start LibreOffice Impress.
 Open the Area dialog by selecting `Format` → `Area` on the Menu bar,
 then selecting the Colors tab.
 

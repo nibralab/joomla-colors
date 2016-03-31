@@ -1,6 +1,6 @@
 # Joomla Brand Color Palette
 
-Joomla Brand Color palette for use with Inkscape and Gimp
+Joomla Brand Color palette for use with Inkscape, Gimp and other tools.
 
 ## The Colors
 

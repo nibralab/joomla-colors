@@ -27,12 +27,12 @@ This palette provides easy access to these colors, supplemented with black and w
 
 ## Installation
 
-Download the file [`src/joomla.gpl`](src/joomla.gpl).
 To enable the palette for a program, follow the instructions for that program.
 
   - **GIMP** | [Debian/Ubuntu](gimp-ubuntu.md)
   - **Inkscape** | [Debian/Ubuntu](inkscape-ubuntu.md)
   - **ColorZilla** | [Debian/Ubuntu](colorzilla-ubuntu.md)
+  - **LibreOffice Impress** | [Debian/Ubuntu](libreoffice-ubuntu.md) | [Windows](libreoffice-windows.md)
   
 ## Contribution
 

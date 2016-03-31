@@ -1,6 +1,7 @@
 # Enable the Palette for ColorZilla
 
-Copy the file `joomla.gpl` to the ColorZilla `palettes` directory.
+Download the file [`src/joomla.gpl`](src/joomla.gpl).
+Copy `joomla.gpl` to the ColorZilla `palettes` directory.
  
 For Debian based distributions like **Ubuntu**:
 

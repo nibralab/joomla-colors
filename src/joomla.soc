@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ooo:color-table xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" xmlns:ooo="http://openoffice.org/2004/office">
+    <draw:color draw:name="Black" draw:color="#000000"/>
+    <draw:color draw:name="Primary Blue" draw:color="#5091CD"/>
+    <draw:color draw:name="Primary Yellow" draw:color="#F9A541"/>
+    <draw:color draw:name="Primary Red" draw:color="#F44321"/>
+    <draw:color draw:name="Primary Green" draw:color="#7AC143"/>
+    <draw:color draw:name="Secondary Blue" draw:color="#75BEE9"/>
+    <draw:color draw:name="Secondary Yellow" draw:color="#FEC34D"/>
+    <draw:color draw:name="Secondary Red" draw:color="#F27042"/>
+    <draw:color draw:name="Secondary Green" draw:color="#89C764"/>
+    <draw:color draw:name="Tertiary Dark Blue" draw:color="#25304F"/>
+    <draw:color draw:name="Tertiary Medium Blue" draw:color="#4076A2"/>
+    <draw:color draw:name="Tertiary Bright Blue" draw:color="#2383C6"/>
+    <draw:color draw:name="Tertiary Light Blue" draw:color="#91C5EA"/>
+    <draw:color draw:name="Neutral Dark Grey" draw:color="#433E42"/>
+    <draw:color draw:name="Neutral Medium Grey" draw:color="#999999"/>
+    <draw:color draw:name="Neutral Pale Grey" draw:color="#C3C3C3"/>
+    <draw:color draw:name="Neutral Light Grey" draw:color="#ECECEC"/>
+    <draw:color draw:name="White" draw:color="#FFFFFF"/>
+</ooo:color-table>

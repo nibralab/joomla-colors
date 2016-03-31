@@ -36,8 +36,10 @@ To enable the palette for a program, follow the instructions for that program.
   
 ## Contribution
 
-If you know other programs, that can make use of GIMP Palette files (`*.gpl`), please tell me;
-or, even better, send a Pull Request!
+If you know other programs, that can make use of
+GIMP Palette files (`*.gpl`) or
+LibreOffice Palette files (`*.soc`),
+please tell me; or, even better, send a Pull Request!
 
 If you can provide installation instructions for other operating systems,
 or improve existing instructions, please send a Pull Request.
